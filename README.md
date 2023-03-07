@@ -8,12 +8,12 @@
 ### WHICH  LANGUAGE AND TELEGRAM API  USED IN THIS ?
 > This bot is  created using python language and python  mtproto pyrogram telegram library 
 
-### DONATE ME PLEASE ❣️
+### OWNER ❣️
 > Please buy me a piza by using bellow link 👇👇👇
-[Buy Me A Piza](https://www.buymeacoffee.com/Masterolic)
+[Owner](https://t.me/II_I_am_Messiah_Il)
 
 ### RATE OUR BOT 
-> Rate our  bot [FEEDBACK](https://t.me/dailychannelsbot?start=spotify_downloa_bot)
+> Rate our  bot [FEEDBACK](https://t.me/Dairy_dash?start=@CatuseR7_bot)
 
 ### ABOUT
 > A Simple Open Source  Spotify Downloader Bot For Telegram 
